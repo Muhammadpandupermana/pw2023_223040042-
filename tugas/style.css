@@ -1,0 +1,18 @@
+<style>
+      .kotak2 {
+        display: flex;
+      }
+
+      .kotak3 {
+        display: flex;
+      }
+
+      .box {
+        background-color: aqua;
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        text-align: center;
+        line-height: 100px;
+      }
+    </style>
